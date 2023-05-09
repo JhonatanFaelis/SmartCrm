@@ -1,0 +1,38 @@
+.bg_padrao{
+    background-color: #0E2D60;
+}
+
+ul li a{
+    font-weight: 600;
+    margin: 0 2px;
+}
+
+ul li a:hover{
+    background-color: white;
+}
+
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #25d366;
+    color: #fff;
+    text-align: center;
+    font-size: 28px;
+    line-height: 60px;
+    z-index: 999;
+    transition: all 0.3s ease;
+  }
+  
+  .whatsapp-button:hover {
+    background-color: #128c7e;
+  }
+  
+  .whatsapp-button i {
+    margin-top: 16px;
+  }
+
+  
