@@ -46,19 +46,19 @@ ul li a:hover{
   }
 
   .container__primeiro{
-    background-image: url(/img/fundo-onda.png);
+    background-image: url("/img/fundo-onda.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .container__segundo{
-    background-image: url(/img/fundo-onda-2.png);
+    background-image: url("/img/fundo-onda-2.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
 
   .container__diferenciais{
-    background-image: url(/img/fundo-gradiente.png);
+    background-image: url("/img/fundo-gradiente.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
