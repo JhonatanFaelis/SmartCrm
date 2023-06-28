@@ -2,6 +2,16 @@
     background-color: #0E2D60;
 }
 
+.bg_transparente{
+  background: transparent;
+  border: 1px solid white;
+}
+
+.row{
+  margin: 1rem;
+  padding: 1rem;
+}
+
 ul li a{
     font-weight: 600;
     margin: 0 2px;
@@ -33,6 +43,34 @@ ul li a:hover{
   
   .whatsapp-button i {
     margin-top: 16px;
+  }
+
+  .container__primeiro{
+    background-image: url(/img/fundo-onda.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .container__segundo{
+    background-image: url(/img/fundo-onda-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .container__diferenciais{
+    background-image: url(/img/fundo-gradiente.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .img__svg{
+    width: 100%;
+    height: 40vh;
+  }
+
+
+  .bg_diferenciais{
+    background-color: #0e2d60ce;
   }
 
   
